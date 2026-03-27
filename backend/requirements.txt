@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+python-dotenv 
+numpy
+email-validator
+python-multipart
+rembg[cpu]
+Pillow
+scikit-learn
+google-generativeai 
+requests
+"passlib[bcrypt]" pyjwt python-multipart
