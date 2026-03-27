@@ -19,7 +19,7 @@ Acest proiect este împărțit în două module principale:
   * Constrângeri de styling logic (ex: excluderea combinării unei rochii cu un tricou).
   * Integrare API OpenWeatherMap pentru recomandări contextuale de sezon.
 
-## ✨ Funcționalități Principale
+## Funcționalități Principale
 1. **Sistem Securizat de Conturi:** Logare și înregistrare criptată end-to-end.
 2. **Garderobă Virtuală:** Încărcarea pozelor direct din galeria telefonului pe server.
 3. **AI Stylist:** Generarea de ținute zilnice complet asortate (Top, Bottom, Footwear sau Single Pieces) bazate pe hainele disponibile în dulapul utilizatorului.
